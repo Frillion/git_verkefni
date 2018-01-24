@@ -59,4 +59,6 @@
 	8.	Hvenær er sniðugt að nota greinar (branches)? 
 		Þegar margir eru að vinna í sömu geymslu er gott að nota aðrar greinar fyrir hverja og eina manneskju
 
+	9.	Hver fann upp GIT?
+		Linus Torvalds
 	Friðrik Fannar S.
