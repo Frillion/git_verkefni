@@ -40,12 +40,16 @@
 	git diff (commit1)(commit2) = Sýnir muninn á þinni skrá og commitinu sem valið er.
 
 
-	4. Hvað er útgáfustýring (e.version control)?
+	4.  Hvað er útgáfustýring (e.version control)?
 		Útgáfustýring er leið sem leifir þér að nota gamlar útgáfur af skrám því talvan heldur utan um gamlar útgáfur.
 
 
 	5.	Hverjir eru helstu kostir við að nota GIT?
 		Git getur verið gott til að geyma skrár í hópavinnu eins og vefhönnun og forritun
 		það er líka hægt að vinna hratt á meðan maður vistar gögn ef maður kann á CLI
+
+	6.	Hversu oft telur þú að eigi að gera commit í verkefni, rökstuddu?
+		Það fer eftir hvernig vinnu maður er að gera. Ég segi að í forritun gerir maður commit eftir hvert stórt skref en ekki fyrir hverja línu sama með vefhönnun.
+	
 
 	Friðrik Fannar S.
