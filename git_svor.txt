@@ -38,4 +38,9 @@
 	git diff = Sýnir muninn frá sýðasta commit og skráar þinnar
 	git diff --staged = Sýnir muninn milli skránar sem var síðast í commit og það sem fer næst í commit(það sem er í staging area)
 	git diff (commit1)(commit2) = Sýnir muninn á þinni skrá og commitinu sem valið er.
+
+
+	4. Hvað er útgáfustýring (e.version control)?
+		Útgáfustýring er leið sem leifir þér að nota gamlar útgáfur af skrám því talvan heldur utan um gamlar útgáfur.
+
 	Friðrik Fannar S.
