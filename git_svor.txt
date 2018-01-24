@@ -46,5 +46,6 @@
 
 	5.	Hverjir eru helstu kostir við að nota GIT?
 		Git getur verið gott til að geyma skrár í hópavinnu eins og vefhönnun og forritun
+		það er líka hægt að vinna hratt á meðan maður vistar gögn ef maður kann á CLI
 
 	Friðrik Fannar S.
