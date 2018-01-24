@@ -1,1 +1,18 @@
 "Git spurningar og svör"
+
+1. Hvað gera eftirfarandi Linux skipanir?
+	cd
+	cd ~
+	ls
+	pwd
+	mkdir
+
+	cd = Breytir staðsetnignu þinni í gagnasafni/Breytir um möppuna sem þú ert staðsettur í (change directory).
+
+	"cd" með "~" valkost = Tekur mann aftur í heima möppuna (þetta er stytting á cd /home/user/)
+
+	ls = Sýnir hvað er innan í möppuni sem þú ert staðsettur í 	(þetta sýnir ekki faldnar skrár til þess er notað "a" möguleikan)
+
+	pwd = Sýnir í hvaða möppu þú ert í (print working directory)
+
+	mkdir = Býr til möppu (mkdir (nafn möppunar)) (make directory)
