@@ -16,3 +16,5 @@
 	pwd = Sýnir í hvaða möppu þú ert í (print working directory)
 
 	mkdir = Býr til möppu (mkdir (nafn möppunar)) (make directory)
+
+	Friðrik Fannar S.
