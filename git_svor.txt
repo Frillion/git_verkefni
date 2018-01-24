@@ -56,4 +56,7 @@
 		Staging area er þar sem skrár þurfa að fara áður en þær fara í geymsluna(þetta er gert með "git add (nafn skráar)")
 		Repository er geymsla þar sem allar skrárnar þínar fara eftir commit
 
+	8.	Hvenær er sniðugt að nota greinar (branches)? 
+		Þegar margir eru að vinna í sömu geymslu er gott að nota aðrar greinar fyrir hverja og eina manneskju
+
 	Friðrik Fannar S.
