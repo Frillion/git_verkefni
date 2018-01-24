@@ -17,4 +17,17 @@
 
 	mkdir = Býr til möppu (mkdir (nafn möppunar)) (make directory)
 
+	2. Hvað gera eftirfarandi git skipanir og hvers vegna eru þær gagnlegar?
+	git clone
+	git log
+	git status
+	git diff
+	git checkout
+
+	git clone = Afritar geymslu og vistar hana í aðra möppu
+	git log = Sýnir allt sem hefur verið sent inn á git geymsluna með commentum, hvenær og kóða þess
+	git status = Sýnir hvaða skrám git er að fylgjast með og hvað verður commitað ef git commit er notað
+	git diff = Sýnir hvað hefur breyst síðan síðasta commit.
+	git checkout = Skiptir um branch og gerir manni kleift að sjá eldri út gáfur af skrám
+
 	Friðrik Fannar S.
