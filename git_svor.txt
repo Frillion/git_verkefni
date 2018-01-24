@@ -61,4 +61,8 @@
 
 	9.	Hver fann upp GIT?
 		Linus Torvalds
+
+	10.	Hvar er GIT helst notað?
+		Git kóðinn er notaður í linux stýrikerfum helst. Git repository er notað helst við vefhönnunar störf
+
 	Friðrik Fannar S.
