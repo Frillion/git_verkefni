@@ -1,2 +1,2 @@
 
-,,#Fyrsta Git verkefnið´´
+„#Fyrsta Git verkefnið“
