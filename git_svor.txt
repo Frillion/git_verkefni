@@ -30,4 +30,12 @@
 	git diff = Sýnir hvað hefur breyst síðan síðasta commit.
 	git checkout = Skiptir um branch og gerir manni kleift að sjá eldri út gáfur af skrám
 
+	3. Hver er munurinn á eftirfarandi git skipunum:
+	a) git diff 
+	b) git diff --staged 
+	c) git diff commit1 commit2
+
+	git diff = Sýnir muninn frá sýðasta commit og skráar þinnar
+	git diff --staged = Sýnir muninn milli skránar sem var síðast í commit og það sem fer næst í commit(það sem er í staging area)
+	git diff (commit1)(commit2) = Sýnir muninn á þinni skrá og commitinu sem valið er.
 	Friðrik Fannar S.
